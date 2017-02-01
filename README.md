@@ -4,7 +4,7 @@ hamlib-go
 An example for https://github.com/xlab/c-for-go/issues/18
 
 Package hamlib provides Go bindings for Hamlib (radio control toolkit).<br />
-All the binding code has automatically been generated with rules defined in [opus.yml](/opus.yml).
+All the binding code has automatically been generated with rules defined in [hamlib.yml](/hamlib.yml).
 
 ### Installation
 
